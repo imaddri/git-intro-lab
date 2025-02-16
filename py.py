@@ -6,3 +6,4 @@ def fact(n):
 
 num = int(input("Enter a number: "))
 print(f" {fact(num)}")
+print(f" {fact(num)}")
